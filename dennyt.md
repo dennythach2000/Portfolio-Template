@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/fire logo.webp
 title: "DennyT"
 date: 2026
 published: true
