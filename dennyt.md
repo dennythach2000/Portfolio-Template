@@ -4,7 +4,7 @@ type: project
 image: img/fire logo.webp
 title: "DennyT"
 date: 2026
-published: true
+published: false
 labels:
   - Cook
   - Knife 
