@@ -18,7 +18,7 @@ summary: "My name is Denny Thach and this is my portfolio project about the food
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-This project I will be focusing on the discussion on hos to be the perfect fook espically when it comes to cutting, cooking, and cleaning.
+This project I will be focusing on the discussion on how to be the perfect cook espically when it comes to cutting, cooking, and cleaning.
 
 ```cpp
 byte ADCRead(byte ch)
