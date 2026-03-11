@@ -9,7 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of SUllivan. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "40511", "city": "Lexington", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "dennythach2000", "url": "http://github.com/dennythach2000" }
+      { "network": "github", "username": "dennythach2000", "url": "http://github.com/dennythach2000"},
+      { "network": "Linkedin", "username": "Denny Thach", "url": "https://www.linkedin.com/in/denny-thach-499314242/"}
     ]
   },
   "interests": [
