@@ -15,11 +15,12 @@
   },
   "interests": [
     { "name": "Cooking" },
-    { "name": "Fishing" }
+    { "name": "Fishing" },
+    { "name": "IT"}
   ],
   "skills": [
     {
-      "name": "IT Basics",
+      "name": "IT Skills",
       "keywords": [ "C#", "Troubleshooting", "Repairing", "Microsoft", "Windows" ]
     },
     {
@@ -39,15 +40,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Baptist Health",
+      "position": "Cook",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "Aug 2024 - Present",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Ensure meals are hot and delicious and served to patients and staff",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain food safety, Temperature guidelines, and recipes"
+        
       ]
     },
     {
